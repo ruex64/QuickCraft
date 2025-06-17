@@ -116,4 +116,4 @@ This project is licensed under the [MIT License](./LICENSE). Free to use, modify
 
 ---
 
-Made with ❤️ by [Your Name]
+Made with ❤️ by [Ruex64/Rudraksh Mahajan]
